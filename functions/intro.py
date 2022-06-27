@@ -3,6 +3,8 @@
 
 # functions are defined by def keyword
 # and then we can use these defined function by calling them
+# function manages error
+#they are more readable
 
 def hypotenuse():
     p = float(input('enter the length of first side'))
