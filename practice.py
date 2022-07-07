@@ -7,5 +7,4 @@ with open ('food_data.txt','a') as file: # create a file using with function
 file = open('food_data.txt','r') # read a file using loop
 for i in file:
     print(i)
-
    
